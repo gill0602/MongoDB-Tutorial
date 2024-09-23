@@ -1,0 +1,6 @@
+show dbs //Displays all the databases that exist in the system
+use employees//Use Employees Database
+C-Create 
+R-Read
+U-Update
+D-Delete
